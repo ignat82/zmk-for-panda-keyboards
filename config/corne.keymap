@@ -101,7 +101,7 @@
 &kp TAB    &kp Q           &kp W           &kp E        &kp R             &kp T        &kp Y  &kp U             &kp I          &kp O            &kp P               &kp ESC
 &kp LCTRL  &hm LEFT_GUI A  &hm LEFT_ALT S  &hm LCTRL D  &hm LEFT_SHIFT F  &kp G        &kp H  &hm RSHIFT J      &hm RCTRL K    &hm RIGHT_ALT L  &hm RGUI SEMICOLON  &kp SQT
 &kp HOME   &kp Z           &kp X           &kp C        &kp V             &kp B        &kp N  &kp M             &kp COMMA      &kp DOT          &kp FSLH            &kp END
-                                         &kp BACKSPACE  &lt 1 SPACE       &lt 2 ENTER  &mo 3  &ltq 2 BACKSPACE  &kp DEL
+                                         &kp BACKSPACE  &lt 1 SPACE       &lt 2 ENTER  &lt 3 LCTRL(SPACE)  &ltq 2 BACKSPACE  &kp DEL
             >;
         };
 
